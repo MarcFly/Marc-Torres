@@ -1,26 +1,24 @@
 # Marc Torres
 
 Responsible of QA. 
-I used Github Issues frequently in order to know what bugs the game has had during the production. You can check this information [here](https://github.com/BooLAW/Zelda-Project/issues).
+Bearing such responsibility, having an easy to understand QA cycle was a key part of the project. Check the QA plan at the beginning of the production out [here](https://github.com/BooLAW/Zelda-Project/wiki/QA). 
 
-I also create a QA plan at the beginning of the production. Check it out [here](https://github.com/BooLAW/Zelda-Project/wiki/QA)
+Regarding the feedback to our code, a simple and well organized template was put up fast from were people could easily go in and give a concised amount of information but enough to be able to understand the issues. Check them out [here](https://github.com/BooLAW/Zelda-Project/issues).
  
 ## What I Have Done
 
-I coded the base of the module player.
+In order to make sure we could start testing out things, I took part in the creation of the new player module. A fast and more or less stable code was brought up fast from which the mechanics could grow from.
+ 
+Although this part had to be cut down due to time constrains, most of my work in the team was the development of the Block entities and Puzzle Manager. They consisted of different object with different functionalities in order to achieve different objectives inside different puzzles, which would reward you with power-ups and rupees.
 
-Then I started designing a lot of puzzles for the game, you can check some of them on the GDD. 
-A part of design them, I code the block entities despite at the end we didn't use it.
-It consisted of different blocks with different functionalities in order to achieve what I designed previously.
+As part as the initial player module, basic animations were required to test properly the game, so the animations were also done by me and used in the final version (with color modifications depending on the dungeon): 
+![](https://i.gyazo.com/80bfb409599a2e04308eae4e3f534c26.png)
 
-I also did the following animations: Pickup, Throw, Pull & Shield Walk 
-![](http://imgur.com/ahBOk7k.png)
+As well as extracting and cleaning all the sprites from the original game, which most of them were not fully used.
 
-![](http://imgur.com/4xhrr1P.png)
+Although not as much time as needed was spent, a good amount of time was spent trying out mostly design features making sure they were fun enough. 
+As part of the final delivery, the following videos were made by me, check them out here: 
 
-I was permantly testing the bugs and reporting them. 
-Check the first trailer here: 
-
-[![](https://img.youtube.com/vi/KBBwDbrTZeM/0.jpg)](https://www.youtube.com/watch?v=KBBwDbrTZeM)
-
-- I did the trailer and the video too. Check the videos on my [Youtube channel](https://www.youtube.com/user/SequelScare/videos).
+[![](https://img.youtube.com/vi/KBBwDbrTZeM/0.jpg)](https://www.youtube.com/watch?v=KBBwDbrTZeM)  
+  
+[![](https://img.youtube.com/vi/xASPzPU7PFo/0.jpg)](https://www.youtube.com/watch?v=xASPzPU7PFo)
