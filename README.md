@@ -19,4 +19,8 @@ I also did the following animations: Pickup, Throw, Pull & Shield Walk
 ![](http://imgur.com/4xhrr1P.png)
 
 I was permantly testing the bugs and reporting them. 
-I did the trailer and the video too. Check the videos on my [Youtube channel](https://www.youtube.com/user/SequelScare/videos).
+Check the first trailer here: 
+
+[![](https://img.youtube.com/vi/KBBwDbrTZeM/0.jpg)](https://www.youtube.com/watch?v=KBBwDbrTZeM)
+
+- I did the trailer and the video too. Check the videos on my [Youtube channel](https://www.youtube.com/user/SequelScare/videos).
