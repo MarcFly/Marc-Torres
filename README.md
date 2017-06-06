@@ -4,7 +4,7 @@ Responsible of QA.
 I used Github Issues frequently in order to know what bugs the game has had during the production. You can check this information [here](https://github.com/BooLAW/Zelda-Project/issues).
 
 I also create a QA plan at the beginning of the production. Check it out [here](https://github.com/BooLAW/Zelda-Project/wiki/QA)
-
+ 
 ## What I Have Done
 
 I coded the base of the module player.
